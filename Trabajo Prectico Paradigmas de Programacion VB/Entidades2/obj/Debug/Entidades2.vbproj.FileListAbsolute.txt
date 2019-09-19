@@ -1,0 +1,18 @@
+C:\Users\Jime - Pc\Desktop\Practicas de Taller II\tp6paradig\tp6paradig\Entidades2\bin\Debug\Entidades2.dll
+C:\Users\Jime - Pc\Desktop\Practicas de Taller II\tp6paradig\tp6paradig\Entidades2\bin\Debug\Entidades2.pdb
+C:\Users\Jime - Pc\Desktop\Practicas de Taller II\tp6paradig\tp6paradig\Entidades2\bin\Debug\Entidades2.xml
+C:\Users\Jime - Pc\Desktop\Practicas de Taller II\tp6paradig\tp6paradig\Entidades2\obj\Debug\Entidades2.vbprojResolveAssemblyReference.cache
+C:\Users\Jime - Pc\Desktop\Practicas de Taller II\tp6paradig\tp6paradig\Entidades2\obj\Debug\Entidades2.Resources.resources
+C:\Users\Jime - Pc\Desktop\Practicas de Taller II\tp6paradig\tp6paradig\Entidades2\obj\Debug\Entidades2.vbproj.GenerateResource.Cache
+C:\Users\Jime - Pc\Desktop\Practicas de Taller II\tp6paradig\tp6paradig\Entidades2\obj\Debug\Entidades2.dll
+C:\Users\Jime - Pc\Desktop\Practicas de Taller II\tp6paradig\tp6paradig\Entidades2\obj\Debug\Entidades2.xml
+C:\Users\Jime - Pc\Desktop\Practicas de Taller II\tp6paradig\tp6paradig\Entidades2\obj\Debug\Entidades2.pdb
+D:\Jime - Pc\Desktop\Facu\taller II\Practicas de Taller II-final\tp6paradig\tp6paradig\Entidades2\bin\Debug\Entidades2.dll
+D:\Jime - Pc\Desktop\Facu\taller II\Practicas de Taller II-final\tp6paradig\tp6paradig\Entidades2\bin\Debug\Entidades2.pdb
+D:\Jime - Pc\Desktop\Facu\taller II\Practicas de Taller II-final\tp6paradig\tp6paradig\Entidades2\bin\Debug\Entidades2.xml
+D:\Jime - Pc\Desktop\Facu\taller II\Practicas de Taller II-final\tp6paradig\tp6paradig\Entidades2\obj\Debug\Entidades2.vbprojResolveAssemblyReference.cache
+D:\Jime - Pc\Desktop\Facu\taller II\Practicas de Taller II-final\tp6paradig\tp6paradig\Entidades2\obj\Debug\Entidades2.Resources.resources
+D:\Jime - Pc\Desktop\Facu\taller II\Practicas de Taller II-final\tp6paradig\tp6paradig\Entidades2\obj\Debug\Entidades2.vbproj.GenerateResource.Cache
+D:\Jime - Pc\Desktop\Facu\taller II\Practicas de Taller II-final\tp6paradig\tp6paradig\Entidades2\obj\Debug\Entidades2.dll
+D:\Jime - Pc\Desktop\Facu\taller II\Practicas de Taller II-final\tp6paradig\tp6paradig\Entidades2\obj\Debug\Entidades2.xml
+D:\Jime - Pc\Desktop\Facu\taller II\Practicas de Taller II-final\tp6paradig\tp6paradig\Entidades2\obj\Debug\Entidades2.pdb
